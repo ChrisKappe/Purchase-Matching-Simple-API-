@@ -1,0 +1,27 @@
+{
+  "id": "3be1fd20-7836-48ae-92bc-3f5eff7e6be8",
+  "name": "Purchase Matching Simple",
+  "publisher": "Mark Brummel",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.8",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [{ 
+    "appId": "e104ec42-a92a-4e9a-b12b-b3c9da2e8d9c", 
+    "name": "API Settings", 
+    "publisher": "Mark Brummel", 
+    "version": "1.0.0.0" }],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 1,
+    "to": 11017999
+  }
+}
